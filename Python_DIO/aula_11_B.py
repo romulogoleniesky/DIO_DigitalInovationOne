@@ -20,5 +20,5 @@ while True: #loop para avaliar a tentativa.
     except ValueError:
         print("Valor inválido!")
     except InputError as ex:
-        print(f'O erro foi: {ex} !')
+        print(f'O ERRO foi: {ex} !')
 
