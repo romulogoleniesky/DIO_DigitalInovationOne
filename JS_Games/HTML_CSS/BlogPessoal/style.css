@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+#title, .subtitle{
+color:rgb(84, 124, 47);
+}
+.subtitle{
+    font-size: 18;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sessao{
+    background-color:peru;
+    padding: 10px;
+    border: 3px solid blueviolet;
+    margin: 10px;
+}
